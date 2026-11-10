@@ -132,7 +132,7 @@ The project uses Unreal Engine's Blueprint visual scripting system:
 | Item | Details |
 |------|---------|
 | Developer | Dongho Lee |
-| Institution | Dong-A University, ISPL (Image Signal Processing Lab) |
+| Institution | Dong-A University, Image Signal Processing Lab |
 | Project type | Undergraduate capstone project |
 | Development period | 2022 |
 | Report | `report_Planetarium.pdf` (see repository) |
@@ -159,5 +159,5 @@ This project is for academic and portfolio purposes. Unreal Engine assets are su
 ---
 
 <div align="center">
-  <sub>Developed by <a href="https://github.com/LeeDongho-ISPL">Dongho Lee @ Dong-A University ISPL</a></sub>
+  <sub>Developed by <a href="https://github.com/DonghoLEE-CV">Dongho Lee @ Dong-A University Image Signal Processing Lab</a></sub>
 </div>
